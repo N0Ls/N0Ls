@@ -1,6 +1,5 @@
 ### Hi there, I'm Nils Landrodie👋
 
-Coucou Vincent !
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
