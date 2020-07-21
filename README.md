@@ -1,5 +1,10 @@
 ### Hi there, I'm Nils Landrodie👋
 
+---
+### Hello 🙋‍♂️,
+### I'm Nils and I'm a 22 years old french Computer Science/Multimedia student currently based in Paris. 
+
+
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
