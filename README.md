@@ -2,10 +2,13 @@
 
 ### I'm a 22 years old french Computer Science/Multimedia student currently based in Paris. 
 
-IMAC Master's degree (Université Gustave Eiffel)
-
 ---
 
+👨‍🎓 **Education**
+
+"IMAC" Master's degree (Université Gustave Eiffel) - 2022
+
+"MMI" Technical degree(Université Paul Sabatier) - 2019
 
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
