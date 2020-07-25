@@ -8,7 +8,13 @@
 
 "IMAC" Master's degree (Université Gustave Eiffel) - 2022
 
-"MMI" Technical degree(Université Paul Sabatier) - 2019
+"MMI" Technical degree (Université Paul Sabatier) - 2019
+
+
+
+📚 Currently diving into computer graphics, 3D programming, 3D art.
+
+🔭 Space enthusiast, former pole vaulter, video gamer.
 
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
