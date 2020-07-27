@@ -4,6 +4,16 @@
 
 ---
 
+🙋‍♂️ **About me**
+
+🥖 22 yo French from Toulouse.
+
+📚 Currently diving into computer graphics, 3D programming, 3D art.
+
+🔭 Space enthusiast, former pole vaulter, video gamer.
+
+<br />
+
 👨‍🎓 **Education**
 
 "IMAC" Master's degree (Université Gustave Eiffel) - 2022
@@ -12,10 +22,7 @@
 
 
 
-📚 Currently diving into computer graphics, 3D programming, 3D art.
-
-🔭 Space enthusiast, former pole vaulter, video gamer.
-
+---
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
