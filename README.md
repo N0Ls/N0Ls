@@ -6,7 +6,7 @@
 
 🙋‍♂️ **About me**
 
-🥖 22 yo French from Toulouse.
+🥖 22 yo french from Toulouse.
 
 📚 Currently diving into computer graphics, 3D programming, 3D art.
 
@@ -20,9 +20,9 @@
 
 "MMI" Technical degree (Université Paul Sabatier) - 2019
 
-
-
----
+<!--adding image 
+logos
+>>
 <!--
 **N0Ls/N0Ls** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
