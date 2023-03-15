@@ -6,7 +6,7 @@
 
 🙋‍♂️ **About me**
 
-🥖 24 yo french from Toulouse.
+☀️ 24 yo french from Toulouse.
 
 📚 Currently diving into computer graphics, 3D programming, 3D art.
 
