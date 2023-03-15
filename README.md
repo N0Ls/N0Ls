@@ -1,10 +1,10 @@
 ### Hi there, I'm Nils Landrodie👋
 
-### I'm a 24 years old french Computer Science/Multimedia student currently based in Paris. 
+### I'm a 24 years old french Computer Science/Multimedia student currently based in Paris.
 
 ---
 
-🙋‍♂️ **About me**
+## 🙋‍♂️ About me
 
 ☀️ 24 yo french from Toulouse.
 
@@ -14,7 +14,7 @@
 
 <br />
 
-👨‍🎓 **Education**
+## 👨‍🎓 Education
 
 "IMAC" Master's degree (Université Gustave Eiffel) - 2022
 
